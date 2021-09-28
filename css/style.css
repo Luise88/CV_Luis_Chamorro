@@ -1,0 +1,26 @@
+header div {
+    background-color: #E5E5E5;
+    text-align: center;
+}
+h1 {    
+    background-color: #C4C4C4;
+    text-transform: uppercase;
+    text-align: center;
+    color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+div {
+    background-color: #C4C4C4;
+    text-transform: uppercase;
+    color: #005677;
+    font-size: 20px;
+}
+.pregunta {font-weight: bold;}
+
+#margen { margin-left: 90px; }
+footer div p {
+    background-color: #005677;
+    text-align: center;
+    color:white;
+}
