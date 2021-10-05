@@ -1,26 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
 header div {
-    background-color: #E5E5E5;
+    background-color: #3f5797;
     text-align: center;
 }
+main h3 {
+    color: black;
+    text-align: center;
+}
+body {
+    background-color: rgb(219, 218, 224);
+}
+main {
+    margin-top: 100px;
+    font-family: 'Montserrat', sans-serif; 
+}
 h1 {    
-    background-color: #C4C4C4;
+    background-color: #005677;
     text-transform: uppercase;
     text-align: center;
-    color: #005677;
-    font-family: 'Times New Roman', Times, serif;
+    color: #eaeff1;
+    font-family: 'Roboto', sans-serif;
     font-size: 35px;
 }
 div {
-    background-color: #C4C4C4;
+    background-color: #005677;
     text-transform: uppercase;
-    color: #005677;
-    font-size: 20px;
+    color: #60b6cc;
+    font-size: 25px;
 }
 .pregunta {font-weight: bold;}
 
-#margen { margin-left: 90px; }
+#margen { margin-left: 95px;}
 footer div p {
+    font-size: 40px;
     background-color: #005677;
     text-align: center;
     color:white;
+}
+.marge {
+    margin: 7px;
+    color: white;
 }
